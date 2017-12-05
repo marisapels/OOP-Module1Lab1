@@ -1,0 +1,10 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.runtimeconfig.json
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.runtimeconfig.dev.json
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/bin/Debug/netcoreapp2.0/Mod1_Lab1.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/OOP/OOP-Module1Lab1/obj/Debug/netcoreapp2.0/Mod1_Lab1.pdb
